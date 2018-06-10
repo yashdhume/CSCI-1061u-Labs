@@ -1,0 +1,1 @@
+float average3(float a, float b, float c); 
